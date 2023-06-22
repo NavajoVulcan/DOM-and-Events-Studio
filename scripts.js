@@ -1,7 +1,6 @@
 // Write your JavaScript code here.
 // Remember to pay attention to page loading!
-//comment
-//kk
+
 window.addEventListener('load', function() {
 let takeOffButton = document.getElementById("takeoff");
 takeOffButton.addEventListener('click', function() {
